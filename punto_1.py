@@ -13,6 +13,9 @@ class CircularDoublyLinkedList:
         self.ULT = None
 
     def AddNode(self,data):
+        """
+        Agrega un nodo
+        """
         P = Nodo(data)
         if(self.PTR==None):
             self.PTR = P
@@ -40,6 +43,9 @@ class CircularDoublyLinkedList:
         
     """
     def Find_And_Change(self, valor, change, posicion):
+        """
+        Encuentra la posicion de los nodos y cambia su posicion
+        """
         P = self.PTR
         sw = 0
         c = 0
