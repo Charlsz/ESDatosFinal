@@ -1,0 +1,19 @@
+Una de las formas mas sencillas que encontré para explicarlo
+
+en pilas si tenemos unas pelotas de tenis, y las metemos en orden
+
+4 - 3 - 2 - 1
+
+y queremos eliminar un elemento, el elemento a eliminar es la pelota numero 4 ya que 
+fue la ultima en ingresar
+
+3 - 2 - 1
+
+En colas si tenemos unas pelotas de tenis, y las metemos en orden
+
+4 - 3 - 2 - 1 
+
+y queremos eliminar un elemento, el elemento a eliminar es la pelota numero 1
+ya que fue la primera en ingresar
+
+4 - 3 - 2
